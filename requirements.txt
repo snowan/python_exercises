@@ -1,0 +1,22 @@
+
+# To install all modules: pip3 install -r requirements.txt
+
+
+# bokeh
+# Flask
+ipython
+jupyter
+#keras
+matplotlib
+#nose
+numpy
+pandas
+Pillow
+pymc
+requests
+scikit-image
+scikit-learn
+scipy
+seaborn
+statsmodel
+tensorflow
