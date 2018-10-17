@@ -1,0 +1,7 @@
+	New York	Dallas	Washington DC	Boston	Las Vegas	Atlanta		
+New York		1373	205	191	2229	749		
+Dallas	1373		1190	1550	1067	727		Distance: miles
+Washington DC	205	1190		400	2085	541		
+Boston	191	1550	400		2370	945		
+Las Vegas	2229	1067	2085	2370		1740		
+Atlanta	749	727	541	945	1740			
